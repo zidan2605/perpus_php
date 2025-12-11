@@ -1,4 +1,5 @@
-website perpustakaan digital dengan menghubungkan php 
+website perpustakaan 
+digital dengan menghubungkan php 
 fitur fiturnya:1.daftar buku
                2.riwayat peminjaman buku
                3.laporan daftar buku
