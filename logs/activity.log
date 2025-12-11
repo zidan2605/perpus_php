@@ -1,0 +1,54 @@
+[2025-12-10 16:36:41] User: admin | IP: ::1 | Activity: Successful login - User: admin
+[2025-12-10 16:50:27] User: admin | IP: ::1 | Activity: User logged out: admin
+[2025-12-10 16:50:37] User: admin | IP: ::1 | Activity: Successful login - User: admin
+[2025-12-10 17:17:39] User: admin | IP: ::1 | Activity: User logged out: admin
+[2025-12-10 17:35:12] User: admin | IP: ::1 | Activity: Successful login - User: admin
+[2025-12-11 03:26:27] User: admin | IP: ::1 | Activity: Successful login - User: admin
+[2025-12-11 03:58:49] User: admin | IP: ::1 | Activity: Successful login - User: admin
+[2025-12-11 04:10:46] User: admin | IP: ::1 | Activity: Deleted book with ID: 20
+[2025-12-11 04:13:28] User: admin | IP: ::1 | Activity: Deleted book with ID: 20
+[2025-12-11 04:13:29] User: admin | IP: ::1 | Activity: Deleted book with ID: 20
+[2025-12-11 04:13:50] User: admin | IP: ::1 | Activity: Deleted book with ID: 22
+[2025-12-11 04:20:25] User: admin | IP: ::1 | Activity: Deleted book with ID: 24
+[2025-12-11 04:24:40] User: admin | IP: ::1 | Activity: User logged out: admin
+[2025-12-11 04:24:53] User: admin | IP: ::1 | Activity: Successful login - User: admin
+[2025-12-11 04:45:02] User: admin | IP: ::1 | Activity: Updated user: admin
+[2025-12-11 04:46:02] User: admin | IP: ::1 | Activity: Added new book: Naruto
+[2025-12-11 04:48:42] User: admin | IP: ::1 | Activity: Added new borrowing: Naruto by user
+[2025-12-11 04:59:01] User: admin | IP: ::1 | Activity: Successful login - User: admin
+[2025-12-11 04:59:24] User: admin | IP: ::1 | Activity: Added new borrowing: Lingkungan sehat by tes
+[2025-12-11 05:15:56] User: admin | IP: ::1 | Activity: User logged out: admin
+[2025-12-11 05:17:08] User: admin | IP: ::1 | Activity: Successful login - User: admin
+[2025-12-11 07:11:47] User: admin | IP: ::1 | Activity: Added new book: Doraemon
+[2025-12-11 07:18:40] User: admin | IP: ::1 | Activity: Deleted book with ID: 25
+[2025-12-11 07:18:44] User: admin | IP: ::1 | Activity: Deleted book with ID: 26
+[2025-12-11 07:18:58] User: admin | IP: ::1 | Activity: Added new borrowing: Doraemon by yanto
+[2025-12-11 07:19:16] User: admin | IP: ::1 | Activity: Deleted loan with ID: 12
+[2025-12-11 07:19:45] User: admin | IP: ::1 | Activity: Updated book ID: 44 - Naruto
+[2025-12-11 07:21:11] User: admin | IP: ::1 | Activity: Processed return for loan ID: 13
+[2025-12-11 07:21:21] User: admin | IP: ::1 | Activity: Processed return for loan ID: 14
+[2025-12-11 07:21:31] User: admin | IP: ::1 | Activity: Marked message as read - ID: 3
+[2025-12-11 07:23:06] User: admin | IP: ::1 | Activity: Marked message as read - ID: 3
+[2025-12-11 07:23:07] User: admin | IP: ::1 | Activity: Marked message as read - ID: 3
+[2025-12-11 08:45:15] User: admin | IP: ::1 | Activity: Marked message as read - ID: 4
+[2025-12-11 08:46:00] User: admin | IP: ::1 | Activity: Deleted contact message - ID: 1
+[2025-12-11 08:47:04] User: admin | IP: ::1 | Activity: Deleted contact message - ID: 2
+[2025-12-11 08:47:25] User: admin | IP: ::1 | Activity: Added new borrowing: Mengenal Hewan by yanto
+[2025-12-11 08:48:43] User: admin | IP: ::1 | Activity: Updated book ID: 45 - Doraemon
+[2025-12-11 09:12:33] User: admin | IP: ::1 | Activity: Added new user: user (user)
+[2025-12-11 09:18:20] User: user | IP: ::1 | Activity: Processed return for loan ID: 15
+[2025-12-11 09:18:52] User: user | IP: ::1 | Activity: Updated member data: Budi Santoso (ID: 3)
+[2025-12-11 09:23:32] User: user | IP: ::1 | Activity: Added new borrowing: belajar menebalkan by AGT001 - Ahmad Fauzi
+[2025-12-11 09:23:41] User: user | IP: ::1 | Activity: Deleted loan with ID: 13
+[2025-12-11 09:23:43] User: user | IP: ::1 | Activity: Deleted loan with ID: 14
+[2025-12-11 09:23:45] User: user | IP: ::1 | Activity: Deleted loan with ID: 15
+[2025-12-11 09:23:54] User: user | IP: ::1 | Activity: Processed return for loan ID: 16
+[2025-12-11 09:24:11] User: user | IP: ::1 | Activity: Deleted member: Siti Nurhaliza (AGT002) - ID: 2
+[2025-12-11 09:44:56] User: user | IP: ::1 | Activity: Added new announcement: tes
+[2025-12-11 09:45:57] User: admin | IP: ::1 | Activity: Deleted announcement: Selamat Datang di Perpustakaan Digital (ID: 1)
+[2025-12-11 09:46:31] User: admin | IP: ::1 | Activity: Added new announcement: Selamat Datang di Perpustakaan Digital
+[2025-12-11 09:46:43] User: admin | IP: ::1 | Activity: Deleted announcement: tes (ID: 4)
+[2025-12-11 09:50:56] User: admin | IP: ::1 | Activity: Added new announcement: Tes 1
+[2025-12-11 09:51:04] User: admin | IP: ::1 | Activity: Added new announcement: Tes 2
+[2025-12-11 09:51:13] User: admin | IP: ::1 | Activity: Added new announcement: Tes 3
+[2025-12-12 00:31:32] User: admin | IP: ::1 | Activity: Added new borrowing: Doraemon by AGT001 - Ahmad Fauzi

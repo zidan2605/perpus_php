@@ -1,0 +1,678 @@
+[10-Dec-2025 16:06:53 UTC] Database connection failed: No connection could be made because the target machine actively refused it
+[10-Dec-2025 16:25:42 UTC] Login error: Unknown column 'id' in 'field list'
+[10-Dec-2025 16:32:50 UTC] Login error: Unknown column 'id' in 'field list'
+[10-Dec-2025 16:33:10 UTC] Login error: Unknown column 'id' in 'field list'
+[10-Dec-2025 16:40:46 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 99
+[10-Dec-2025 16:40:46 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 99
+[10-Dec-2025 16:40:46 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 118
+[10-Dec-2025 16:40:46 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 118
+[10-Dec-2025 16:40:47 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 97
+[10-Dec-2025 16:40:47 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 97
+[10-Dec-2025 16:40:47 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 116
+[10-Dec-2025 16:40:47 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 116
+[10-Dec-2025 16:50:01 UTC] PHP Warning:  require(beranda_adm.php): Failed to open stream: No such file or directory in C:\laragon\www\perpustakaan-php\content_admin.php on line 8
+[10-Dec-2025 16:50:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'beranda_adm.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\perpustakaan-php\content_admin.php:8
+Stack trace:
+#0 C:\laragon\www\perpustakaan-php\layout_adminlte.php(243): require()
+#1 C:\laragon\www\perpustakaan-php\index_admin.php(10): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\perpustakaan-php\content_admin.php on line 8
+[10-Dec-2025 16:50:03 UTC] PHP Warning:  require(beranda_adm.php): Failed to open stream: No such file or directory in C:\laragon\www\perpustakaan-php\content_admin.php on line 21
+[10-Dec-2025 16:50:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'beranda_adm.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\perpustakaan-php\content_admin.php:21
+Stack trace:
+#0 C:\laragon\www\perpustakaan-php\layout_adminlte.php(243): require()
+#1 C:\laragon\www\perpustakaan-php\index_admin.php(10): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\perpustakaan-php\content_admin.php on line 21
+[10-Dec-2025 16:50:12 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 97
+[10-Dec-2025 16:50:12 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 97
+[10-Dec-2025 16:50:12 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 116
+[10-Dec-2025 16:50:12 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 116
+[10-Dec-2025 16:50:12 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 99
+[10-Dec-2025 16:50:12 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 99
+[10-Dec-2025 16:50:12 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 118
+[10-Dec-2025 16:50:12 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 118
+[10-Dec-2025 16:50:13 UTC] PHP Warning:  require(beranda_adm.php): Failed to open stream: No such file or directory in C:\laragon\www\perpustakaan-php\content_admin.php on line 21
+[10-Dec-2025 16:50:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'beranda_adm.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\perpustakaan-php\content_admin.php:21
+Stack trace:
+#0 C:\laragon\www\perpustakaan-php\layout_adminlte.php(243): require()
+#1 C:\laragon\www\perpustakaan-php\index_admin.php(10): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\perpustakaan-php\content_admin.php on line 21
+[10-Dec-2025 16:50:14 UTC] PHP Warning:  require(beranda_adm.php): Failed to open stream: No such file or directory in C:\laragon\www\perpustakaan-php\content_admin.php on line 8
+[10-Dec-2025 16:50:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'beranda_adm.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\perpustakaan-php\content_admin.php:8
+Stack trace:
+#0 C:\laragon\www\perpustakaan-php\layout_adminlte.php(243): require()
+#1 C:\laragon\www\perpustakaan-php\index_admin.php(10): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\perpustakaan-php\content_admin.php on line 8
+[10-Dec-2025 16:50:37 UTC] PHP Warning:  require(beranda_adm.php): Failed to open stream: No such file or directory in C:\laragon\www\perpustakaan-php\content_admin.php on line 8
+[10-Dec-2025 16:50:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'beranda_adm.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\perpustakaan-php\content_admin.php:8
+Stack trace:
+#0 C:\laragon\www\perpustakaan-php\layout_adminlte.php(243): require()
+#1 C:\laragon\www\perpustakaan-php\index_admin.php(10): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\perpustakaan-php\content_admin.php on line 8
+[10-Dec-2025 16:50:38 UTC] PHP Warning:  require(beranda_adm.php): Failed to open stream: No such file or directory in C:\laragon\www\perpustakaan-php\content_admin.php on line 21
+[10-Dec-2025 16:50:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'beranda_adm.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\perpustakaan-php\content_admin.php:21
+Stack trace:
+#0 C:\laragon\www\perpustakaan-php\layout_adminlte.php(243): require()
+#1 C:\laragon\www\perpustakaan-php\index_admin.php(10): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\perpustakaan-php\content_admin.php on line 21
+[10-Dec-2025 16:50:50 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 99
+[10-Dec-2025 16:50:50 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 99
+[10-Dec-2025 16:50:50 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 118
+[10-Dec-2025 16:50:50 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 118
+[10-Dec-2025 16:50:51 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 97
+[10-Dec-2025 16:50:51 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 97
+[10-Dec-2025 16:50:51 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 116
+[10-Dec-2025 16:50:51 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 116
+[10-Dec-2025 16:50:57 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 97
+[10-Dec-2025 16:50:57 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 97
+[10-Dec-2025 16:50:57 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 116
+[10-Dec-2025 16:50:57 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 116
+[10-Dec-2025 16:50:58 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 99
+[10-Dec-2025 16:50:58 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 99
+[10-Dec-2025 16:50:58 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 118
+[10-Dec-2025 16:50:58 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 118
+[10-Dec-2025 16:51:01 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 97
+[10-Dec-2025 16:51:01 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 97
+[10-Dec-2025 16:51:01 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 116
+[10-Dec-2025 16:51:01 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 116
+[10-Dec-2025 16:51:07 UTC] PHP Warning:  require(beranda_adm.php): Failed to open stream: No such file or directory in C:\laragon\www\perpustakaan-php\content_admin.php on line 21
+[10-Dec-2025 16:51:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'beranda_adm.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\perpustakaan-php\content_admin.php:21
+Stack trace:
+#0 C:\laragon\www\perpustakaan-php\layout_adminlte.php(243): require()
+#1 C:\laragon\www\perpustakaan-php\index_admin.php(10): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\perpustakaan-php\content_admin.php on line 21
+[10-Dec-2025 16:51:08 UTC] PHP Warning:  require(beranda_adm.php): Failed to open stream: No such file or directory in C:\laragon\www\perpustakaan-php\content_admin.php on line 21
+[10-Dec-2025 16:51:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'beranda_adm.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\perpustakaan-php\content_admin.php:21
+Stack trace:
+#0 C:\laragon\www\perpustakaan-php\layout_adminlte.php(243): require()
+#1 C:\laragon\www\perpustakaan-php\index_admin.php(10): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\perpustakaan-php\content_admin.php on line 21
+[10-Dec-2025 16:51:09 UTC] PHP Warning:  require(beranda_adm.php): Failed to open stream: No such file or directory in C:\laragon\www\perpustakaan-php\content_admin.php on line 21
+[10-Dec-2025 16:51:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'beranda_adm.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\perpustakaan-php\content_admin.php:21
+Stack trace:
+#0 C:\laragon\www\perpustakaan-php\layout_adminlte.php(243): require()
+#1 C:\laragon\www\perpustakaan-php\index_admin.php(10): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\perpustakaan-php\content_admin.php on line 21
+[10-Dec-2025 16:56:56 UTC] PHP Warning:  require(beranda_adm.php): Failed to open stream: No such file or directory in C:\laragon\www\perpustakaan-php\content_admin.php on line 21
+[10-Dec-2025 16:56:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'beranda_adm.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\perpustakaan-php\content_admin.php:21
+Stack trace:
+#0 C:\laragon\www\perpustakaan-php\layout_adminlte.php(249): require()
+#1 C:\laragon\www\perpustakaan-php\index_admin.php(10): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\perpustakaan-php\content_admin.php on line 21
+[10-Dec-2025 16:56:56 UTC] PHP Warning:  require(beranda_adm.php): Failed to open stream: No such file or directory in C:\laragon\www\perpustakaan-php\content_admin.php on line 21
+[10-Dec-2025 16:56:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'beranda_adm.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\perpustakaan-php\content_admin.php:21
+Stack trace:
+#0 C:\laragon\www\perpustakaan-php\layout_adminlte.php(249): require()
+#1 C:\laragon\www\perpustakaan-php\index_admin.php(10): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\perpustakaan-php\content_admin.php on line 21
+[10-Dec-2025 16:56:57 UTC] PHP Warning:  require(beranda_adm.php): Failed to open stream: No such file or directory in C:\laragon\www\perpustakaan-php\content_admin.php on line 21
+[10-Dec-2025 16:56:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'beranda_adm.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\perpustakaan-php\content_admin.php:21
+Stack trace:
+#0 C:\laragon\www\perpustakaan-php\layout_adminlte.php(249): require()
+#1 C:\laragon\www\perpustakaan-php\index_admin.php(10): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\perpustakaan-php\content_admin.php on line 21
+[10-Dec-2025 16:57:02 UTC] PHP Warning:  require(beranda_adm.php): Failed to open stream: No such file or directory in C:\laragon\www\perpustakaan-php\content_admin.php on line 21
+[10-Dec-2025 16:57:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'beranda_adm.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\perpustakaan-php\content_admin.php:21
+Stack trace:
+#0 C:\laragon\www\perpustakaan-php\layout_adminlte.php(249): require()
+#1 C:\laragon\www\perpustakaan-php\index_admin.php(10): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\perpustakaan-php\content_admin.php on line 21
+[10-Dec-2025 16:57:05 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 99
+[10-Dec-2025 16:57:05 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 99
+[10-Dec-2025 16:57:05 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 118
+[10-Dec-2025 16:57:05 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 118
+[10-Dec-2025 16:57:10 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 97
+[10-Dec-2025 16:57:10 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 97
+[10-Dec-2025 16:57:10 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 116
+[10-Dec-2025 16:57:10 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 116
+[10-Dec-2025 16:57:32 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 99
+[10-Dec-2025 16:57:32 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 99
+[10-Dec-2025 16:57:32 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 118
+[10-Dec-2025 16:57:32 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 118
+[10-Dec-2025 16:58:52 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 99
+[10-Dec-2025 16:58:52 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 99
+[10-Dec-2025 16:58:52 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 118
+[10-Dec-2025 16:58:52 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 118
+[10-Dec-2025 16:59:08 UTC] PHP Warning:  Undefined array key "judulbuku" in C:\laragon\www\perpustakaan-php\views\peminjaman_tambah.php on line 2
+[10-Dec-2025 16:59:08 UTC] PHP Warning:  Trying to access array offset on null in C:\laragon\www\perpustakaan-php\views\peminjaman_tambah.php on line 20
+[10-Dec-2025 16:59:12 UTC] PHP Warning:  require(beranda_adm.php): Failed to open stream: No such file or directory in C:\laragon\www\perpustakaan-php\content_admin.php on line 21
+[10-Dec-2025 16:59:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'beranda_adm.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\perpustakaan-php\content_admin.php:21
+Stack trace:
+#0 C:\laragon\www\perpustakaan-php\layout_adminlte.php(249): require()
+#1 C:\laragon\www\perpustakaan-php\index_admin.php(10): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\perpustakaan-php\content_admin.php on line 21
+[10-Dec-2025 16:59:17 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 99
+[10-Dec-2025 16:59:17 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 99
+[10-Dec-2025 16:59:17 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 118
+[10-Dec-2025 16:59:17 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 118
+[10-Dec-2025 16:59:30 UTC] PHP Warning:  require(beranda_adm.php): Failed to open stream: No such file or directory in C:\laragon\www\perpustakaan-php\content_admin.php on line 21
+[10-Dec-2025 16:59:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'beranda_adm.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\perpustakaan-php\content_admin.php:21
+Stack trace:
+#0 C:\laragon\www\perpustakaan-php\layout_adminlte.php(249): require()
+#1 C:\laragon\www\perpustakaan-php\index_admin.php(10): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\perpustakaan-php\content_admin.php on line 21
+[10-Dec-2025 17:05:58 UTC] PHP Warning:  require(beranda_adm.php): Failed to open stream: No such file or directory in C:\laragon\www\perpustakaan-php\content_admin.php on line 21
+[10-Dec-2025 17:05:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'beranda_adm.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\perpustakaan-php\content_admin.php:21
+Stack trace:
+#0 C:\laragon\www\perpustakaan-php\layout_adminlte.php(249): require()
+#1 C:\laragon\www\perpustakaan-php\index_admin.php(10): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\perpustakaan-php\content_admin.php on line 21
+[10-Dec-2025 17:06:02 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 99
+[10-Dec-2025 17:06:02 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 99
+[10-Dec-2025 17:06:02 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 118
+[10-Dec-2025 17:06:02 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 118
+[10-Dec-2025 17:06:08 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 97
+[10-Dec-2025 17:06:08 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 97
+[10-Dec-2025 17:06:08 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 116
+[10-Dec-2025 17:06:08 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 116
+[10-Dec-2025 17:06:13 UTC] PHP Warning:  require(beranda_adm.php): Failed to open stream: No such file or directory in C:\laragon\www\perpustakaan-php\content_admin.php on line 21
+[10-Dec-2025 17:06:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'beranda_adm.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\perpustakaan-php\content_admin.php:21
+Stack trace:
+#0 C:\laragon\www\perpustakaan-php\layout_adminlte.php(249): require()
+#1 C:\laragon\www\perpustakaan-php\index_admin.php(10): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\perpustakaan-php\content_admin.php on line 21
+[10-Dec-2025 17:07:55 UTC] PHP Warning:  require(beranda_adm.php): Failed to open stream: No such file or directory in C:\laragon\www\perpustakaan-php\content_admin.php on line 21
+[10-Dec-2025 17:07:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'beranda_adm.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\perpustakaan-php\content_admin.php:21
+Stack trace:
+#0 C:\laragon\www\perpustakaan-php\layout_adminlte.php(249): require()
+#1 C:\laragon\www\perpustakaan-php\index_admin.php(10): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\perpustakaan-php\content_admin.php on line 21
+[10-Dec-2025 17:07:56 UTC] PHP Warning:  require(beranda_adm.php): Failed to open stream: No such file or directory in C:\laragon\www\perpustakaan-php\content_admin.php on line 21
+[10-Dec-2025 17:07:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'beranda_adm.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\perpustakaan-php\content_admin.php:21
+Stack trace:
+#0 C:\laragon\www\perpustakaan-php\layout_adminlte.php(249): require()
+#1 C:\laragon\www\perpustakaan-php\index_admin.php(10): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\perpustakaan-php\content_admin.php on line 21
+[10-Dec-2025 17:17:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'perpustakaan-php.contact_messages' doesn't exist in C:\laragon\www\perpustakaan-php\layout_adminlte.php:203
+Stack trace:
+#0 C:\laragon\www\perpustakaan-php\layout_adminlte.php(203): mysqli_query(Object(mysqli), 'SELECT COUNT(*)...')
+#1 C:\laragon\www\perpustakaan-php\index_admin.php(10): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\perpustakaan-php\layout_adminlte.php on line 203
+[10-Dec-2025 17:17:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'perpustakaan-php.contact_messages' doesn't exist in C:\laragon\www\perpustakaan-php\layout_adminlte.php:203
+Stack trace:
+#0 C:\laragon\www\perpustakaan-php\layout_adminlte.php(203): mysqli_query(Object(mysqli), 'SELECT COUNT(*)...')
+#1 C:\laragon\www\perpustakaan-php\index_admin.php(10): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\perpustakaan-php\layout_adminlte.php on line 203
+[10-Dec-2025 17:17:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'perpustakaan-php.contact_messages' doesn't exist in C:\laragon\www\perpustakaan-php\layout_adminlte.php:203
+Stack trace:
+#0 C:\laragon\www\perpustakaan-php\layout_adminlte.php(203): mysqli_query(Object(mysqli), 'SELECT COUNT(*)...')
+#1 C:\laragon\www\perpustakaan-php\index_admin.php(10): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\perpustakaan-php\layout_adminlte.php on line 203
+[10-Dec-2025 17:17:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'perpustakaan-php.contact_messages' doesn't exist in C:\laragon\www\perpustakaan-php\layout_adminlte.php:203
+Stack trace:
+#0 C:\laragon\www\perpustakaan-php\layout_adminlte.php(203): mysqli_query(Object(mysqli), 'SELECT COUNT(*)...')
+#1 C:\laragon\www\perpustakaan-php\index_admin.php(10): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\perpustakaan-php\layout_adminlte.php on line 203
+[10-Dec-2025 17:17:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'perpustakaan-php.contact_messages' doesn't exist in C:\laragon\www\perpustakaan-php\layout_adminlte.php:203
+Stack trace:
+#0 C:\laragon\www\perpustakaan-php\layout_adminlte.php(203): mysqli_query(Object(mysqli), 'SELECT COUNT(*)...')
+#1 C:\laragon\www\perpustakaan-php\index_admin.php(10): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\perpustakaan-php\layout_adminlte.php on line 203
+[10-Dec-2025 17:17:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'perpustakaan-php.contact_messages' doesn't exist in C:\laragon\www\perpustakaan-php\layout_adminlte.php:203
+Stack trace:
+#0 C:\laragon\www\perpustakaan-php\layout_adminlte.php(203): mysqli_query(Object(mysqli), 'SELECT COUNT(*)...')
+#1 C:\laragon\www\perpustakaan-php\index_admin.php(10): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\perpustakaan-php\layout_adminlte.php on line 203
+[10-Dec-2025 17:17:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'perpustakaan-php.contact_messages' doesn't exist in C:\laragon\www\perpustakaan-php\layout_adminlte.php:203
+Stack trace:
+#0 C:\laragon\www\perpustakaan-php\layout_adminlte.php(203): mysqli_query(Object(mysqli), 'SELECT COUNT(*)...')
+#1 C:\laragon\www\perpustakaan-php\index_admin.php(10): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\perpustakaan-php\layout_adminlte.php on line 203
+[10-Dec-2025 17:17:56 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\laragon\www\perpustakaan-php\landing.php on line 418
+[10-Dec-2025 17:17:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'perpustakaan-php.settings' doesn't exist in C:\laragon\www\perpustakaan-php\landing.php:424
+Stack trace:
+#0 C:\laragon\www\perpustakaan-php\landing.php(424): mysqli_query(Object(mysqli), 'SELECT setting_...')
+#1 {main}
+  thrown in C:\laragon\www\perpustakaan-php\landing.php on line 424
+[10-Dec-2025 17:18:49 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\laragon\www\perpustakaan-php\landing.php on line 418
+[10-Dec-2025 17:18:49 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\laragon\www\perpustakaan-php\landing.php on line 418
+[10-Dec-2025 17:19:25 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\laragon\www\perpustakaan-php\landing.php on line 418
+[10-Dec-2025 17:19:26 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\laragon\www\perpustakaan-php\landing.php on line 418
+[10-Dec-2025 17:20:45 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\laragon\www\perpustakaan-php\landing.php on line 418
+[10-Dec-2025 17:23:26 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\laragon\www\perpustakaan-php\landing.php on line 418
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\laragon\www\perpustakaan-php\index.php on line 615
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "judul" in C:\laragon\www\perpustakaan-php\index.php on line 717
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "pengarang" in C:\laragon\www\perpustakaan-php\index.php on line 719
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "thn_terbit" in C:\laragon\www\perpustakaan-php\index.php on line 725
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 728
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 729
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "judul" in C:\laragon\www\perpustakaan-php\index.php on line 717
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "pengarang" in C:\laragon\www\perpustakaan-php\index.php on line 719
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "thn_terbit" in C:\laragon\www\perpustakaan-php\index.php on line 725
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 728
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 729
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "judul" in C:\laragon\www\perpustakaan-php\index.php on line 717
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "pengarang" in C:\laragon\www\perpustakaan-php\index.php on line 719
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "thn_terbit" in C:\laragon\www\perpustakaan-php\index.php on line 725
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 728
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 729
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "judul" in C:\laragon\www\perpustakaan-php\index.php on line 717
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "pengarang" in C:\laragon\www\perpustakaan-php\index.php on line 719
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "thn_terbit" in C:\laragon\www\perpustakaan-php\index.php on line 725
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 728
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 729
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "judul" in C:\laragon\www\perpustakaan-php\index.php on line 717
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "pengarang" in C:\laragon\www\perpustakaan-php\index.php on line 719
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "thn_terbit" in C:\laragon\www\perpustakaan-php\index.php on line 725
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 728
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 729
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "judul" in C:\laragon\www\perpustakaan-php\index.php on line 717
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "pengarang" in C:\laragon\www\perpustakaan-php\index.php on line 719
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "thn_terbit" in C:\laragon\www\perpustakaan-php\index.php on line 725
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 728
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 729
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "judul" in C:\laragon\www\perpustakaan-php\index.php on line 717
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "pengarang" in C:\laragon\www\perpustakaan-php\index.php on line 719
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "thn_terbit" in C:\laragon\www\perpustakaan-php\index.php on line 725
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 728
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 729
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "judul" in C:\laragon\www\perpustakaan-php\index.php on line 717
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "pengarang" in C:\laragon\www\perpustakaan-php\index.php on line 719
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "thn_terbit" in C:\laragon\www\perpustakaan-php\index.php on line 725
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 728
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 729
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "judul" in C:\laragon\www\perpustakaan-php\index.php on line 717
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "pengarang" in C:\laragon\www\perpustakaan-php\index.php on line 719
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "thn_terbit" in C:\laragon\www\perpustakaan-php\index.php on line 725
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 728
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 729
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "judul" in C:\laragon\www\perpustakaan-php\index.php on line 717
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "pengarang" in C:\laragon\www\perpustakaan-php\index.php on line 719
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "thn_terbit" in C:\laragon\www\perpustakaan-php\index.php on line 725
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 728
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 729
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "judul" in C:\laragon\www\perpustakaan-php\index.php on line 717
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "pengarang" in C:\laragon\www\perpustakaan-php\index.php on line 719
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "thn_terbit" in C:\laragon\www\perpustakaan-php\index.php on line 725
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 728
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 729
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "judul" in C:\laragon\www\perpustakaan-php\index.php on line 717
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "pengarang" in C:\laragon\www\perpustakaan-php\index.php on line 719
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "thn_terbit" in C:\laragon\www\perpustakaan-php\index.php on line 725
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 728
+[10-Dec-2025 17:23:31 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 729
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\laragon\www\perpustakaan-php\index.php on line 615
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "judul" in C:\laragon\www\perpustakaan-php\index.php on line 717
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "pengarang" in C:\laragon\www\perpustakaan-php\index.php on line 719
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "thn_terbit" in C:\laragon\www\perpustakaan-php\index.php on line 725
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 728
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 729
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "judul" in C:\laragon\www\perpustakaan-php\index.php on line 717
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "pengarang" in C:\laragon\www\perpustakaan-php\index.php on line 719
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "thn_terbit" in C:\laragon\www\perpustakaan-php\index.php on line 725
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 728
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 729
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "judul" in C:\laragon\www\perpustakaan-php\index.php on line 717
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "pengarang" in C:\laragon\www\perpustakaan-php\index.php on line 719
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "thn_terbit" in C:\laragon\www\perpustakaan-php\index.php on line 725
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 728
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 729
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "judul" in C:\laragon\www\perpustakaan-php\index.php on line 717
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "pengarang" in C:\laragon\www\perpustakaan-php\index.php on line 719
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "thn_terbit" in C:\laragon\www\perpustakaan-php\index.php on line 725
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 728
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 729
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "judul" in C:\laragon\www\perpustakaan-php\index.php on line 717
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "pengarang" in C:\laragon\www\perpustakaan-php\index.php on line 719
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "thn_terbit" in C:\laragon\www\perpustakaan-php\index.php on line 725
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 728
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 729
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "judul" in C:\laragon\www\perpustakaan-php\index.php on line 717
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "pengarang" in C:\laragon\www\perpustakaan-php\index.php on line 719
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "thn_terbit" in C:\laragon\www\perpustakaan-php\index.php on line 725
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 728
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 729
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "judul" in C:\laragon\www\perpustakaan-php\index.php on line 717
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "pengarang" in C:\laragon\www\perpustakaan-php\index.php on line 719
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "thn_terbit" in C:\laragon\www\perpustakaan-php\index.php on line 725
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 728
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 729
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "judul" in C:\laragon\www\perpustakaan-php\index.php on line 717
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "pengarang" in C:\laragon\www\perpustakaan-php\index.php on line 719
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "thn_terbit" in C:\laragon\www\perpustakaan-php\index.php on line 725
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 728
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 729
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "judul" in C:\laragon\www\perpustakaan-php\index.php on line 717
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "pengarang" in C:\laragon\www\perpustakaan-php\index.php on line 719
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "thn_terbit" in C:\laragon\www\perpustakaan-php\index.php on line 725
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 728
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 729
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "judul" in C:\laragon\www\perpustakaan-php\index.php on line 717
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "pengarang" in C:\laragon\www\perpustakaan-php\index.php on line 719
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "thn_terbit" in C:\laragon\www\perpustakaan-php\index.php on line 725
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 728
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 729
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "judul" in C:\laragon\www\perpustakaan-php\index.php on line 717
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "pengarang" in C:\laragon\www\perpustakaan-php\index.php on line 719
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "thn_terbit" in C:\laragon\www\perpustakaan-php\index.php on line 725
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 728
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 729
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "judul" in C:\laragon\www\perpustakaan-php\index.php on line 717
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "pengarang" in C:\laragon\www\perpustakaan-php\index.php on line 719
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "thn_terbit" in C:\laragon\www\perpustakaan-php\index.php on line 725
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 728
+[10-Dec-2025 17:23:47 UTC] PHP Warning:  Undefined array key "tersedia" in C:\laragon\www\perpustakaan-php\index.php on line 729
+[10-Dec-2025 17:35:12 UTC] PHP Warning:  require(beranda_adm.php): Failed to open stream: No such file or directory in C:\laragon\www\perpustakaan-php\content_admin.php on line 8
+[10-Dec-2025 17:35:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'beranda_adm.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\perpustakaan-php\content_admin.php:8
+Stack trace:
+#0 C:\laragon\www\perpustakaan-php\layout_adminlte.php(277): require()
+#1 C:\laragon\www\perpustakaan-php\index_admin.php(10): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\perpustakaan-php\content_admin.php on line 8
+[10-Dec-2025 17:35:20 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 99
+[10-Dec-2025 17:35:20 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 99
+[10-Dec-2025 17:35:20 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 118
+[10-Dec-2025 17:35:20 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 118
+[10-Dec-2025 17:37:22 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\laragon\www\perpustakaan-php\landing.php on line 419
+[10-Dec-2025 17:37:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'judulBuku' in 'order clause' in C:\laragon\www\perpustakaan-php\public_books.php:47
+Stack trace:
+#0 C:\laragon\www\perpustakaan-php\public_books.php(47): mysqli_query(Object(mysqli), 'SELECT * FROM b...')
+#1 {main}
+  thrown in C:\laragon\www\perpustakaan-php\public_books.php on line 47
+[10-Dec-2025 17:37:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'judulBuku' in 'order clause' in C:\laragon\www\perpustakaan-php\public_books.php:47
+Stack trace:
+#0 C:\laragon\www\perpustakaan-php\public_books.php(47): mysqli_query(Object(mysqli), 'SELECT * FROM b...')
+#1 {main}
+  thrown in C:\laragon\www\perpustakaan-php\public_books.php on line 47
+[10-Dec-2025 17:37:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'judulBuku' in 'order clause' in C:\laragon\www\perpustakaan-php\public_books.php:47
+Stack trace:
+#0 C:\laragon\www\perpustakaan-php\public_books.php(47): mysqli_query(Object(mysqli), 'SELECT * FROM b...')
+#1 {main}
+  thrown in C:\laragon\www\perpustakaan-php\public_books.php on line 47
+[10-Dec-2025 17:37:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'judulBuku' in 'order clause' in C:\laragon\www\perpustakaan-php\public_books.php:47
+Stack trace:
+#0 C:\laragon\www\perpustakaan-php\public_books.php(47): mysqli_query(Object(mysqli), 'SELECT * FROM b...')
+#1 {main}
+  thrown in C:\laragon\www\perpustakaan-php\public_books.php on line 47
+[10-Dec-2025 17:37:57 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\laragon\www\perpustakaan-php\landing.php on line 419
+[11-Dec-2025 03:26:27 UTC] PHP Warning:  require(beranda_adm.php): Failed to open stream: No such file or directory in C:\laragon\www\perpustakaan-php\content_admin.php on line 8
+[11-Dec-2025 03:26:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'beranda_adm.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\perpustakaan-php\content_admin.php:8
+Stack trace:
+#0 C:\laragon\www\perpustakaan-php\layout_adminlte.php(234): require()
+#1 C:\laragon\www\perpustakaan-php\index_admin.php(9): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\perpustakaan-php\content_admin.php on line 8
+[11-Dec-2025 03:26:29 UTC] PHP Warning:  require(beranda_adm.php): Failed to open stream: No such file or directory in C:\laragon\www\perpustakaan-php\content_admin.php on line 30
+[11-Dec-2025 03:26:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'beranda_adm.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\perpustakaan-php\content_admin.php:30
+Stack trace:
+#0 C:\laragon\www\perpustakaan-php\layout_adminlte.php(234): require()
+#1 C:\laragon\www\perpustakaan-php\index_admin.php(9): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\perpustakaan-php\content_admin.php on line 30
+[11-Dec-2025 03:26:34 UTC] PHP Warning:  require(beranda_adm.php): Failed to open stream: No such file or directory in C:\laragon\www\perpustakaan-php\content_admin.php on line 30
+[11-Dec-2025 03:26:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'beranda_adm.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\perpustakaan-php\content_admin.php:30
+Stack trace:
+#0 C:\laragon\www\perpustakaan-php\layout_adminlte.php(234): require()
+#1 C:\laragon\www\perpustakaan-php\index_admin.php(9): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\perpustakaan-php\content_admin.php on line 30
+[11-Dec-2025 03:33:11 UTC] Dashboard error: Unknown column 'status' in 'where clause'
+[11-Dec-2025 03:33:11 UTC] PHP Warning:  Undefined variable $recent_books in C:\laragon\www\perpustakaan-php\beranda_adm.php on line 175
+[11-Dec-2025 03:33:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in C:\laragon\www\perpustakaan-php\beranda_adm.php:175
+Stack trace:
+#0 C:\laragon\www\perpustakaan-php\content_admin.php(30): require()
+#1 C:\laragon\www\perpustakaan-php\layout_adminlte.php(234): require('C:\\laragon\\www\\...')
+#2 C:\laragon\www\perpustakaan-php\index_admin.php(9): require('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\perpustakaan-php\beranda_adm.php on line 175
+[11-Dec-2025 03:33:23 UTC] Dashboard error: Unknown column 'status' in 'where clause'
+[11-Dec-2025 03:33:23 UTC] PHP Warning:  Undefined variable $recent_books in C:\laragon\www\perpustakaan-php\beranda_adm.php on line 175
+[11-Dec-2025 03:33:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in C:\laragon\www\perpustakaan-php\beranda_adm.php:175
+Stack trace:
+#0 C:\laragon\www\perpustakaan-php\content_admin.php(30): require()
+#1 C:\laragon\www\perpustakaan-php\layout_adminlte.php(234): require('C:\\laragon\\www\\...')
+#2 C:\laragon\www\perpustakaan-php\index_admin.php(9): require('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\perpustakaan-php\beranda_adm.php on line 175
+[11-Dec-2025 03:35:32 UTC] Dashboard error: Unknown column 'status' in 'where clause'
+[11-Dec-2025 03:35:33 UTC] Dashboard error: Unknown column 'status' in 'where clause'
+[11-Dec-2025 03:35:42 UTC] Dashboard error: Unknown column 'status' in 'where clause'
+[11-Dec-2025 03:39:44 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 99
+[11-Dec-2025 03:39:44 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 99
+[11-Dec-2025 03:39:44 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 118
+[11-Dec-2025 03:39:44 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 118
+[11-Dec-2025 03:50:59 UTC] Dashboard error: Unknown column 'status' in 'where clause'
+[11-Dec-2025 03:52:01 UTC] Dashboard error: Unknown column 'status' in 'where clause'
+[11-Dec-2025 03:52:05 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 99
+[11-Dec-2025 03:52:05 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 99
+[11-Dec-2025 03:52:05 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 118
+[11-Dec-2025 03:52:05 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 118
+[11-Dec-2025 03:52:06 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 97
+[11-Dec-2025 03:52:06 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 97
+[11-Dec-2025 03:52:06 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 116
+[11-Dec-2025 03:52:06 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 116
+[11-Dec-2025 03:52:17 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string - string in C:\laragon\www\perpustakaan-php\views\peminjaman_kembaliBuku.php:73
+Stack trace:
+#0 C:\laragon\www\perpustakaan-php\content_admin.php(28): require()
+#1 C:\laragon\www\perpustakaan-php\layout_adminlte.php(199): require('C:\\laragon\\www\\...')
+#2 C:\laragon\www\perpustakaan-php\index_admin.php(9): require('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\perpustakaan-php\views\peminjaman_kembaliBuku.php on line 73
+[11-Dec-2025 03:52:18 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string - string in C:\laragon\www\perpustakaan-php\views\peminjaman_kembaliBuku.php:73
+Stack trace:
+#0 C:\laragon\www\perpustakaan-php\content_admin.php(28): require()
+#1 C:\laragon\www\perpustakaan-php\layout_adminlte.php(199): require('C:\\laragon\\www\\...')
+#2 C:\laragon\www\perpustakaan-php\index_admin.php(9): require('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\perpustakaan-php\views\peminjaman_kembaliBuku.php on line 73
+[11-Dec-2025 03:58:49 UTC] Dashboard error: Unknown column 'status' in 'where clause'
+[11-Dec-2025 03:59:02 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 99
+[11-Dec-2025 03:59:02 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 99
+[11-Dec-2025 03:59:02 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 118
+[11-Dec-2025 03:59:02 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 118
+[11-Dec-2025 03:59:03 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 97
+[11-Dec-2025 03:59:03 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 97
+[11-Dec-2025 03:59:03 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 116
+[11-Dec-2025 03:59:03 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 116
+[11-Dec-2025 03:59:08 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 99
+[11-Dec-2025 03:59:08 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 99
+[11-Dec-2025 03:59:08 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 118
+[11-Dec-2025 03:59:08 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 118
+[11-Dec-2025 03:59:14 UTC] Dashboard error: Unknown column 'status' in 'where clause'
+[11-Dec-2025 03:59:27 UTC] Dashboard error: Unknown column 'status' in 'where clause'
+[11-Dec-2025 03:59:32 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 99
+[11-Dec-2025 03:59:32 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 99
+[11-Dec-2025 03:59:32 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 118
+[11-Dec-2025 03:59:32 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 118
+[11-Dec-2025 03:59:33 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 97
+[11-Dec-2025 03:59:33 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 97
+[11-Dec-2025 03:59:33 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 116
+[11-Dec-2025 03:59:33 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 116
+[11-Dec-2025 04:00:17 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 99
+[11-Dec-2025 04:00:17 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 99
+[11-Dec-2025 04:00:17 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 118
+[11-Dec-2025 04:00:17 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 118
+[11-Dec-2025 04:00:37 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 97
+[11-Dec-2025 04:00:37 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 97
+[11-Dec-2025 04:00:37 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 116
+[11-Dec-2025 04:00:37 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 116
+[11-Dec-2025 04:08:36 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 97
+[11-Dec-2025 04:08:36 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 97
+[11-Dec-2025 04:08:36 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 116
+[11-Dec-2025 04:08:36 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 116
+[11-Dec-2025 04:08:40 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 97
+[11-Dec-2025 04:08:40 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 97
+[11-Dec-2025 04:08:40 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 116
+[11-Dec-2025 04:08:40 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 116
+[11-Dec-2025 04:08:41 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 97
+[11-Dec-2025 04:08:41 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 97
+[11-Dec-2025 04:08:41 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 116
+[11-Dec-2025 04:08:41 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 116
+[11-Dec-2025 04:08:42 UTC] Dashboard error: Unknown column 'status' in 'where clause'
+[11-Dec-2025 04:08:53 UTC] PHP Warning:  Undefined array key "status" in C:\laragon\www\perpustakaan-php\views\peminjaman_tampil.php on line 34
+[11-Dec-2025 04:08:53 UTC] PHP Warning:  Undefined array key "status" in C:\laragon\www\perpustakaan-php\views\peminjaman_tampil.php on line 44
+[11-Dec-2025 04:08:53 UTC] PHP Warning:  Undefined array key "status" in C:\laragon\www\perpustakaan-php\views\peminjaman_tampil.php on line 34
+[11-Dec-2025 04:08:53 UTC] PHP Warning:  Undefined array key "status" in C:\laragon\www\perpustakaan-php\views\peminjaman_tampil.php on line 44
+[11-Dec-2025 04:08:53 UTC] PHP Warning:  Undefined array key "status" in C:\laragon\www\perpustakaan-php\views\peminjaman_tampil.php on line 34
+[11-Dec-2025 04:08:53 UTC] PHP Warning:  Undefined array key "status" in C:\laragon\www\perpustakaan-php\views\peminjaman_tampil.php on line 44
+[11-Dec-2025 04:08:59 UTC] PHP Warning:  Undefined array key "status" in C:\laragon\www\perpustakaan-php\views\peminjaman_tampil.php on line 34
+[11-Dec-2025 04:08:59 UTC] PHP Warning:  Undefined array key "status" in C:\laragon\www\perpustakaan-php\views\peminjaman_tampil.php on line 44
+[11-Dec-2025 04:08:59 UTC] PHP Warning:  Undefined array key "status" in C:\laragon\www\perpustakaan-php\views\peminjaman_tampil.php on line 34
+[11-Dec-2025 04:08:59 UTC] PHP Warning:  Undefined array key "status" in C:\laragon\www\perpustakaan-php\views\peminjaman_tampil.php on line 44
+[11-Dec-2025 04:08:59 UTC] PHP Warning:  Undefined array key "status" in C:\laragon\www\perpustakaan-php\views\peminjaman_tampil.php on line 34
+[11-Dec-2025 04:08:59 UTC] PHP Warning:  Undefined array key "status" in C:\laragon\www\perpustakaan-php\views\peminjaman_tampil.php on line 44
+[11-Dec-2025 04:09:01 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 99
+[11-Dec-2025 04:09:01 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 99
+[11-Dec-2025 04:09:01 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 118
+[11-Dec-2025 04:09:01 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 118
+[11-Dec-2025 04:09:04 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 97
+[11-Dec-2025 04:09:04 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 97
+[11-Dec-2025 04:09:04 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 116
+[11-Dec-2025 04:09:04 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 116
+[11-Dec-2025 04:09:10 UTC] PHP Warning:  Undefined array key "status" in C:\laragon\www\perpustakaan-php\views\peminjaman_tampil.php on line 34
+[11-Dec-2025 04:09:10 UTC] PHP Warning:  Undefined array key "status" in C:\laragon\www\perpustakaan-php\views\peminjaman_tampil.php on line 44
+[11-Dec-2025 04:09:10 UTC] PHP Warning:  Undefined array key "status" in C:\laragon\www\perpustakaan-php\views\peminjaman_tampil.php on line 34
+[11-Dec-2025 04:09:10 UTC] PHP Warning:  Undefined array key "status" in C:\laragon\www\perpustakaan-php\views\peminjaman_tampil.php on line 44
+[11-Dec-2025 04:09:10 UTC] PHP Warning:  Undefined array key "status" in C:\laragon\www\perpustakaan-php\views\peminjaman_tampil.php on line 34
+[11-Dec-2025 04:09:10 UTC] PHP Warning:  Undefined array key "status" in C:\laragon\www\perpustakaan-php\views\peminjaman_tampil.php on line 44
+[11-Dec-2025 04:10:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'where clause' in C:\laragon\www\perpustakaan-php\views\peminjaman_kembaliBuku.php:11
+Stack trace:
+#0 C:\laragon\www\perpustakaan-php\views\peminjaman_kembaliBuku.php(11): mysqli->prepare('SELECT * FROM p...')
+#1 C:\laragon\www\perpustakaan-php\content_admin.php(28): require('C:\\laragon\\www\\...')
+#2 C:\laragon\www\perpustakaan-php\layout_admin.php(159): require('C:\\laragon\\www\\...')
+#3 C:\laragon\www\perpustakaan-php\index_admin.php(9): require('C:\\laragon\\www\\...')
+#4 {main}
+  thrown in C:\laragon\www\perpustakaan-php\views\peminjaman_kembaliBuku.php on line 11
+[11-Dec-2025 04:10:30 UTC] Dashboard error: Unknown column 'status' in 'where clause'
+[11-Dec-2025 04:10:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\laragon\www\perpustakaan-php\layout_admin.php:110) in C:\laragon\www\perpustakaan-php\views\buku_delete.php on line 19
+[11-Dec-2025 04:13:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\laragon\www\perpustakaan-php\layout_admin.php:110) in C:\laragon\www\perpustakaan-php\views\buku_delete.php on line 19
+[11-Dec-2025 04:13:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\laragon\www\perpustakaan-php\layout_admin.php:110) in C:\laragon\www\perpustakaan-php\views\buku_delete.php on line 19
+[11-Dec-2025 04:13:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\laragon\www\perpustakaan-php\layout_admin.php:110) in C:\laragon\www\perpustakaan-php\views\buku_delete.php on line 19
+[11-Dec-2025 04:20:01 UTC] Dashboard error: Unknown column 'status' in 'where clause'
+[11-Dec-2025 04:20:28 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 99
+[11-Dec-2025 04:20:28 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 99
+[11-Dec-2025 04:20:28 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 118
+[11-Dec-2025 04:20:28 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 118
+[11-Dec-2025 04:20:32 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 97
+[11-Dec-2025 04:20:32 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 97
+[11-Dec-2025 04:20:32 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 116
+[11-Dec-2025 04:20:32 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 116
+[11-Dec-2025 04:24:02 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 97
+[11-Dec-2025 04:24:02 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 97
+[11-Dec-2025 04:24:02 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 116
+[11-Dec-2025 04:24:02 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 116
+[11-Dec-2025 04:24:02 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 97
+[11-Dec-2025 04:24:02 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 97
+[11-Dec-2025 04:24:02 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 116
+[11-Dec-2025 04:24:02 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 116
+[11-Dec-2025 04:24:04 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 99
+[11-Dec-2025 04:24:04 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 99
+[11-Dec-2025 04:24:04 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 118
+[11-Dec-2025 04:24:04 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 118
+[11-Dec-2025 04:24:05 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 97
+[11-Dec-2025 04:24:05 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 97
+[11-Dec-2025 04:24:05 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 116
+[11-Dec-2025 04:24:05 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 116
+[11-Dec-2025 04:24:08 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 99
+[11-Dec-2025 04:24:08 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 99
+[11-Dec-2025 04:24:08 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 118
+[11-Dec-2025 04:24:08 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 118
+[11-Dec-2025 04:24:21 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 97
+[11-Dec-2025 04:24:21 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 97
+[11-Dec-2025 04:24:21 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 116
+[11-Dec-2025 04:24:21 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 116
+[11-Dec-2025 04:24:24 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 99
+[11-Dec-2025 04:24:24 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 99
+[11-Dec-2025 04:24:24 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 118
+[11-Dec-2025 04:24:24 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 118
+[11-Dec-2025 04:24:29 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 97
+[11-Dec-2025 04:24:29 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 97
+[11-Dec-2025 04:24:29 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 116
+[11-Dec-2025 04:24:29 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 116
+[11-Dec-2025 04:24:53 UTC] Dashboard error: Unknown column 'status' in 'where clause'
+[11-Dec-2025 04:24:54 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 99
+[11-Dec-2025 04:24:54 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 99
+[11-Dec-2025 04:24:54 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 118
+[11-Dec-2025 04:24:54 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\buku_report.php on line 118
+[11-Dec-2025 04:25:25 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 97
+[11-Dec-2025 04:25:25 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 97
+[11-Dec-2025 04:25:25 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 116
+[11-Dec-2025 04:25:25 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\perpustakaan-php\views\peminjaman_report.php on line 116
+[11-Dec-2025 04:35:09 UTC] Dashboard error: Unknown column 'status' in 'where clause'
+[11-Dec-2025 04:35:25 UTC] Dashboard error: Unknown column 'status' in 'where clause'
+[11-Dec-2025 04:35:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'order clause' in C:\laragon\www\perpustakaan-php\views\user_tampil.php:32
+Stack trace:
+#0 C:\laragon\www\perpustakaan-php\views\user_tampil.php(32): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 C:\laragon\www\perpustakaan-php\content_admin.php(28): require('C:\\laragon\\www\\...')
+#2 C:\laragon\www\perpustakaan-php\layout_admin.php(165): require('C:\\laragon\\www\\...')
+#3 C:\laragon\www\perpustakaan-php\index_admin.php(9): require('C:\\laragon\\www\\...')
+#4 {main}
+  thrown in C:\laragon\www\perpustakaan-php\views\user_tampil.php on line 32
+[11-Dec-2025 04:35:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'order clause' in C:\laragon\www\perpustakaan-php\views\user_tampil.php:32
+Stack trace:
+#0 C:\laragon\www\perpustakaan-php\views\user_tampil.php(32): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 C:\laragon\www\perpustakaan-php\content_admin.php(28): require('C:\\laragon\\www\\...')
+#2 C:\laragon\www\perpustakaan-php\layout_admin.php(165): require('C:\\laragon\\www\\...')
+#3 C:\laragon\www\perpustakaan-php\index_admin.php(9): require('C:\\laragon\\www\\...')
+#4 {main}
+  thrown in C:\laragon\www\perpustakaan-php\views\user_tampil.php on line 32
+[11-Dec-2025 04:36:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'order clause' in C:\laragon\www\perpustakaan-php\views\user_tampil.php:32
+Stack trace:
+#0 C:\laragon\www\perpustakaan-php\views\user_tampil.php(32): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 C:\laragon\www\perpustakaan-php\content_admin.php(28): require('C:\\laragon\\www\\...')
+#2 C:\laragon\www\perpustakaan-php\layout_admin.php(165): require('C:\\laragon\\www\\...')
+#3 C:\laragon\www\perpustakaan-php\index_admin.php(9): require('C:\\laragon\\www\\...')
+#4 {main}
+  thrown in C:\laragon\www\perpustakaan-php\views\user_tampil.php on line 32
+[11-Dec-2025 04:36:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'order clause' in C:\laragon\www\perpustakaan-php\views\user_tampil.php:32
+Stack trace:
+#0 C:\laragon\www\perpustakaan-php\views\user_tampil.php(32): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 C:\laragon\www\perpustakaan-php\content_admin.php(28): require('C:\\laragon\\www\\...')
+#2 C:\laragon\www\perpustakaan-php\layout_admin.php(165): require('C:\\laragon\\www\\...')
+#3 C:\laragon\www\perpustakaan-php\index_admin.php(9): require('C:\\laragon\\www\\...')
+#4 {main}
+  thrown in C:\laragon\www\perpustakaan-php\views\user_tampil.php on line 32
+[11-Dec-2025 04:36:47 UTC] Dashboard error: Unknown column 'status' in 'where clause'
+[11-Dec-2025 04:41:12 UTC] Dashboard error: Unknown column 'status' in 'where clause'
+[11-Dec-2025 04:41:30 UTC] PHP Warning:  Undefined array key "id" in C:\laragon\www\perpustakaan-php\views\user_tampil.php on line 47
+[11-Dec-2025 04:43:01 UTC] Dashboard error: Unknown column 'status' in 'where clause'
+[11-Dec-2025 04:43:18 UTC] PHP Warning:  Undefined array key "id" in C:\laragon\www\perpustakaan-php\views\user_tampil.php on line 47
+[11-Dec-2025 04:46:22 UTC] Dashboard error: Unknown column 'status' in 'where clause'
+[11-Dec-2025 04:46:43 UTC] Add borrowing error: Field 'tgl_kembali' doesn't have a default value
+[11-Dec-2025 04:46:56 UTC] Add borrowing error: Field 'tgl_kembali' doesn't have a default value
+[11-Dec-2025 04:49:01 UTC] Dashboard error: Unknown column 'status' in 'where clause'
+[11-Dec-2025 06:06:00 UTC] PHP Fatal error:  Uncaught Error: Class "Security" not found in C:\laragon\www\perpustakaan-php\admin\index_admin.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\laragon\www\perpustakaan-php\admin\index_admin.php on line 7
+[11-Dec-2025 06:06:01 UTC] PHP Fatal error:  Uncaught Error: Class "Security" not found in C:\laragon\www\perpustakaan-php\admin\index_admin.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\laragon\www\perpustakaan-php\admin\index_admin.php on line 7
+[11-Dec-2025 06:07:21 UTC] PHP Fatal error:  Uncaught Error: Class "Security" not found in C:\laragon\www\perpustakaan-php\admin\index_admin.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\laragon\www\perpustakaan-php\admin\index_admin.php on line 7
+[11-Dec-2025 06:13:39 UTC] PHP Fatal error:  Uncaught Error: Class "Security" not found in C:\laragon\www\perpustakaan-php\admin\index_admin.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\laragon\www\perpustakaan-php\admin\index_admin.php on line 7
+[11-Dec-2025 07:14:00 UTC] PHP Fatal error:  Uncaught Error: Class "Security" not found in C:\laragon\www\perpustakaan-php\actions\buku_delete.php:9
+Stack trace:
+#0 {main}
+  thrown in C:\laragon\www\perpustakaan-php\actions\buku_delete.php on line 9
